@@ -1,5 +1,13 @@
 apply plugin: 'java'
 
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compile 'commons-validator:commons-validator:1.6'
+}
+
 jar {
     manifest {
         attributes	'Main-Class': 'csci2020u.lab04.Main'
