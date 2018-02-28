@@ -14,3 +14,6 @@ User Interfaces 1
 
 ## Lab 05
 User Interfaces 2
+
+## Lab 06
+2D Graphics
