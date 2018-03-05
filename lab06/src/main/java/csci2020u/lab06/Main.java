@@ -36,16 +36,16 @@ public class Main extends Application {
 
 		rootGroup.getChildren().add(canvas);
 
-		primaryStage.setTitle("");
+		primaryStage.setTitle("Lab 06");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 
 		// Draw the charts
-		drawBarChart(rootGroup);
-		drawPieChart(rootGroup);
+		drawBarChart();
+		drawPieChart();
 	}
 
-	private void drawBarChart(Group group) {
+	private void drawBarChart() {
 
 		// Data
 		double[] avgHousingPricesByYear = {
@@ -100,7 +100,7 @@ public class Main extends Application {
 		//gc.strokeArc(50, 500, 100, 75, 135.0, 180.0, ArcType.ROUND);
 	}
 
-	private void drawPieChart(Group group) {
+	private void drawPieChart() {
 
 		// Data
 		String[] ageGroups = {
