@@ -17,3 +17,7 @@ User Interfaces 2
 
 ## Lab 06
 2D Graphics
+
+## Lab 07
+Loading Files
+
