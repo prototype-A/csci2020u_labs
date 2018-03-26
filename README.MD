@@ -23,3 +23,6 @@ Loading Files
 
 ## Lab 08
 Loading and saving files
+
+## Lab 09
+Loading web data
