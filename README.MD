@@ -21,3 +21,5 @@ User Interfaces 2
 ## Lab 07
 Loading Files
 
+## Lab 08
+Loading and saving files
